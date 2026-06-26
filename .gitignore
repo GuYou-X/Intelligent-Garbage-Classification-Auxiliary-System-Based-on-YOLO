@@ -1,0 +1,17 @@
+my_system/__pycache__/
+my_system/save/
+my_system/test/images1/
+my_system/test/images2/
+my_system/test/videos/
+
+my_train/balanced_garbage_datasets
+my_train/balanced_garbage_datasets_analysis_plots
+my_train/cleaned_garbage_datasets
+my_train/cleaned_garbage_datasets_analysis_plots
+my_train/garbage_datasets
+my_train/garbage_datasets_analysis_plots
+my_train/predict
+my_train/results
+my_train/val
+
+*.pt
